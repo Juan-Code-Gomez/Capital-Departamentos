@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: rgb(6, 94, 94);
+    text-align: center;
+}
+.carousel-inner img {
+    margin: auto;
+  }
